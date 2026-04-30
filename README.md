@@ -1,1 +1,1 @@
-This is my Test repo; updated; updated once more, this time directly in Github
+This repo contains all my BIMM143 labs
